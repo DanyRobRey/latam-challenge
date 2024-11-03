@@ -1,4 +1,4 @@
-# Data Engineer Challenge 
+# Data Engineer Challenge
 ​
 ## Descripción General
 Bienvenido al desafío para Ingenieros de Datos. En esta ocasión, tendrás la oportunidad de acercarte a parte de la realidad del rol, demostrar tus habilidades y conocimientos en procesamiento de datos con python y diferentes estructuras de datos.
